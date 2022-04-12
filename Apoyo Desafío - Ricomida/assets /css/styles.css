@@ -1,0 +1,19 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    color: white
+}
+
+.color {
+    background-color: #373a3c;
+}
+
+.nav-link {
+    font-family: 'Cabin', sans-serif;
+    color: white;
+}
+
+
